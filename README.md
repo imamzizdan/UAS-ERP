@@ -1,3 +1,3 @@
 # UAS-ERP
-UAS ERP kelas b - Imam Zizdan Razani - 12030121120030
-https://share.chatling.ai/s/C4ub1B8ToAq5bWX
+<script> window.chtlConfig = { chatbotId: "5673525219" } </script>
+<script async data-id="5673525219" id="chatling-embed-script" type="text/javascript" src="https://chatling.ai/js/embed.js"></script>
