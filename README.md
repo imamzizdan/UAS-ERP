@@ -1,3 +1,3 @@
 # UAS-ERP
 UAS ERP kelas b - Imam Zizdan Razani - 12030121120030
-https://app.chatling.ai/projects/8351798883/chatbots/4356172686/builder
+https://share.chatling.ai/s/C4ub1B8ToAq5bWX
